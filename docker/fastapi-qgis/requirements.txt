@@ -21,3 +21,4 @@ xee==0.0.24
 
 verde==1.9.0
 scipy==1.17.1
+pykrige==1.7.3
